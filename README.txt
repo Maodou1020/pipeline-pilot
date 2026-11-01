@@ -25,8 +25,8 @@ environment. It uses Python with Flask and SQLite for the main program, plus a
 Vue 3 frontend. Please run it locally using the instructions below.
 
 External Python libraries:
-- Flask 3.1.3
-- Flask-CORS 6.0.2
+- Flask 3.1.2
+- Flask-CORS 6.0.1
 
 Frontend libraries/tools:
 - Vue 3
